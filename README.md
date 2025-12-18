@@ -18,7 +18,7 @@
 Клонируем репозиторий и устанавливаем зависимости:
 
 ```bash
-git clone <репозиторий>
+git clone <https://github.com/Fabu1o/3snet.git>
 cd 3snet-widget-test
 pip install -r requirements.txt
 playwright install
